@@ -12,5 +12,8 @@ The code starts by defining some constants, including the initial state of the s
 ## Usage
 This code can be used as a basic example of a state machine implementation in an Arduino project. It can also be modified to control other devices or sensors based on the state of the system.
 
+![image](https://user-images.githubusercontent.com/77243045/225853611-3ce870bc-03f7-45cc-89ef-e24e93e6e139.png)
+
+
 License
 This code is licensed under the MIT License. Please see the LICENSE file for more information.
